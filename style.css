@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+
+img{
+    border-radius:70%;
+    border-right:90px;
+}
+
+h1{
+    color: azure;
+}
